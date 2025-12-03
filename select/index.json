@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "「伝言歌」",
+  "base_artist": "sumika",
+  "createdAt": "2025-12-03T06:19:09.724828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「伝言歌」 - Dengonuta",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/01_「伝言歌」_-_Dengonuta_sumika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「伝言歌」",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/02_「伝言歌」_sumika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "「伝言歌」",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_「伝言歌」_sumika.txt"
+    }
+  ]
+}
